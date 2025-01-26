@@ -38,6 +38,6 @@ Progress is saved to ensure users can continue learning from where they left off
 
 
 # Future Enhancements
-🌐 Add support for more languages.\n
-📊 Include analytics to track user progress./n
-🗂 Allow users to upload custom datasets./n
+**🌐 Add support for more languages.**
+**📊 Include analytics to track user progress.**
+**🗂 Allow users to upload custom datasets.**
